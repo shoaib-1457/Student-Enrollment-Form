@@ -21,8 +21,8 @@
 --Primary key: Roll No.
 ### Screenshots:
 
-![Dashboard]()
+![Code](https://github.com/shoaib-1457/Student-Enrollment-Form/blob/dd48a13f652e79f3a3869c0e6f6b3c68f5ed494d/Images/Code.png)
 
-![Index Page]()
+![Index Page](https://github.com/shoaib-1457/Student-Enrollment-Form/blob/dd48a13f652e79f3a3869c0e6f6b3c68f5ed494d/Images/F-end.png)
 
-![Visualize]()
+![JSONPowerDb](https://github.com/shoaib-1457/Student-Enrollment-Form/blob/dd48a13f652e79f3a3869c0e6f6b3c68f5ed494d/Images/JSON%20Power_DB.png)
